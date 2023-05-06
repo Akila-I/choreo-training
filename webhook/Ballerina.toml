@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.4.1"
+  name = "github_issue_summary"
+  org = "akilatest1"
+  version = "0.1.0"
+
